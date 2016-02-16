@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Iphone 6 et l'Erreur 53"
+date:   2016-02-15 6:00:00 -0500
+categories: Coup de gueule
+---
+
+![Iphone_head](http://finda.photo/image/11526/thumbnail/original)
+
+Vous avez tous dû bien entendre parler de cette actualité concernant les iPhone6 et 6 + ainsi que d'une certaine mise à jour d'Apple, mais si ce n'est pas le cas voici l'histoire en quelques lignes.
+
+Apple proposa comme à son habitude  une éniéme mise à jour pour son logiciels iOS pour iPhone6 /6+, les clients content (et forcer en quelque sorte ^^) effectue la mise à jour, et là CATASTROPHE des tonnes d'iPhone se retrouve sous la coupe d'une magnifique erreur répondant au numéro 53, une erreur rendant l'iPhone tous simplement inutilisable. Mais quel sont donc les raisons, une simple erreur technique, un virus inconnu, une attaque de l'au-dela effectué par Steve Jobs ^^ et non rien de tout ça,  la raison en est bien plus simple mais pas moins grave, en effet cet erreur est une création de la firme à la pomme dans le but de rendre initulisable tout appareil qui aurait cotoyé des ateliers de réparation autre que ceux d'Apple concernant le touch ID. Bien évidemment, Apple vient en expliquer les raisons et déclare pour sa défense que ce blocage n'est d'autre que pour "des raisons de sécurité et ainsi protéger vos empreintes et Apple pay", et là je ne sais pas vous mais pour moi c'est du beau foutage de gueule mais un magnifique, et la colére qui vient avec et il y a pas le choix ça vient avec.
+
+Alors dans un premier temps les lois sur la propriété d'objet, là ont c'est pas, Apple à décider d'en faire abstraction mais bon mais dans un second temps, il faut être un tout petit peu logique monsieur les pommes, si vous tué des iPhones (et surtout de cette façon), vous tué du consommateurs, imaginé juste ceci, vous venez d'acquerir un magnifique iPhone6+ à un prix exorbitant même d'occasion, et la un vendeur Apple vient, vous le prends des mains, le casse devant vos yeux, est ce que sérieusement vous iriez en acheter un autre, WHATTT !!! Du grand n'importe quoi, une véritable connerie, je sais pas qui à eu l'idée chez eux mais lui il est bien con ... politique de vente à la sauvette.
+
+Voila, voila je tenais juste à donner mon avis sur cet affaire et n'hésitez pas à le faire vous aussi que vous possédez un iPhone6 ou pas, c'est vraiment important si vous voulez que les multinationales aillent dans votre sens de consommation et non celui de l'argent qui lui n'en a pas.
