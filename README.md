@@ -1,1 +1,1 @@
-My blog about just a curious guy 
+A blog about just a curious guy 
